@@ -33,3 +33,7 @@ function featureUser2() {
 function featureDev() {
   return 'dev';
 }
+
+function loginLayout() {
+  return 'login layout';
+}
