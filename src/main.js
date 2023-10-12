@@ -25,3 +25,7 @@ function feature5() {
 function featureUser() {
   return 'user modify';
 }
+
+function featureUser2() {
+  return 'user layout modify';
+}
