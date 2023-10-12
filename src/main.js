@@ -37,3 +37,7 @@ function featureDev() {
 function loginLayout() {
   return 'login layout';
 }
+
+function c1() {
+  return 'c1';
+}
