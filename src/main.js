@@ -13,3 +13,7 @@ function feature3() {
 function feature4() {
   return 'aaa';
 }
+
+function feature6() {
+  return 'bbb';
+}
