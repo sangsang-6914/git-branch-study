@@ -17,7 +17,11 @@ function feature4() {
 function feature6() {
   return 'bbbsss';
 }
-  
+
 function feature5() {
   return 'sss';
+}
+
+function featureUser() {
+  return 'user modify';
 }
