@@ -9,3 +9,7 @@ function feature2() {
 function feature3() {
   return 'hij';
 }
+
+function feature4() {
+  return 'aaa';
+}
