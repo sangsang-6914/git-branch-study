@@ -5,3 +5,7 @@ function feature1() {
 function feature2() {
   return 'def';
 }
+
+function feature3() {
+  return 'hij';
+}
