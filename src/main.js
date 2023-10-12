@@ -14,6 +14,10 @@ function feature4() {
   return 'aaa';
 }
 
+function feature6() {
+  return 'bbbsss';
+}
+  
 function feature5() {
   return 'sss';
 }
