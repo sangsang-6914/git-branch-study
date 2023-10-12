@@ -29,3 +29,7 @@ function featureUser() {
 function featureUser2() {
   return 'user layout modify';
 }
+
+function featureDev() {
+  return 'dev';
+}
